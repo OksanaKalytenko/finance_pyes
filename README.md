@@ -1,6 +1,6 @@
-# finance_pyes
+## Finance Pyes 🍕 π 🥧 - Enjoy! 😋
 
-A collection of various finance related projects. They are all in separate jupyter notebooks that contain basic examples of all the topics that I was interested to explore.
+A collection of various finance related projects done in python. They are all in separate jupyter notebooks that contain basic examples of all the topics that I was interested to explore.
 In the following you have short links and descriptions of all my projects. 
 
 Have fun exploring yourself! Feel free to experiment with everything you find! 🙃
